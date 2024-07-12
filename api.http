@@ -19,7 +19,7 @@ Content-Type: application/json
 
 {
     "codigo": 55,
-    "nombre": "Parlante",
+    "nombre": "Play",
     "precio": 100,
     "categoria": "Accesorios"
     
